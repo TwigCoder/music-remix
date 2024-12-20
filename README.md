@@ -1,4 +1,4 @@
-Welcome to my Music Remix Tool! Check it out [here][https://music-remixer.streamlit.app].
+Welcome to my Music Remix Tool! Check it out [here](https://music-remixer.streamlit.app).
 
 Upload your song (MP3 and WAV only) and change its tempo, pitch, reverb, and more.
 
