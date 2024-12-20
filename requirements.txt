@@ -1,4 +1,4 @@
-librosa==0.10.2.post1
+librosa
 numpy==2.2.0
 plotly==5.24.1
 pydub==0.25.1

@@ -3,11 +3,9 @@ import uuid
 from pathlib import Path
 from werkzeug.utils import secure_filename
 
-# Directories
 UPLOAD_DIR = "uploads"
 EXPORT_DIR = "export"
 
-# Ensure directories exist
 Path(UPLOAD_DIR).mkdir(exist_ok=True)
 Path(EXPORT_DIR).mkdir(exist_ok=True)
 
